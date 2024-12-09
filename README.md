@@ -1,8 +1,8 @@
-Project Name- "OLIST STORE ANALYSIS"
+👉 Project Name- "OLIST STORE ANALYSIS"
 
-Poject Domain- E-commerce
+👉 Poject Domain- E-commerce
 
-Tools used: Excel, MySQL, Tableau, Power-BI.
+👉 Tools used: Excel, MySQL, Tableau, Power-BI.
 
 📌 Objective:
 The Olist Store Analysis project focused on understanding customer buying patterns, payment behavior, and shipping metrics. Using data from nine CSV files, the goal was to find key insights to improve delivery, product quality, and marketing strategies, helping Olist enhance operations and customer satisfaction.
